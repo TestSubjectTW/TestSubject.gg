@@ -1,2 +1,25 @@
 # TestSubject.gg
 got bored so i made my own roblox cheat hub
+
+included modules:
+
+-Flight
+-Speed
+-inf jump
+-Esp
+-No clip
+-Teleport to player
+-Follow player
+(Aim assist doesnt work yet just ignore it)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+supported executors (didnt try paid executors so there is a high chance the script will work same goes for the ones i didnt mention):
+
+-Madium 
+-Xeno
+-Velocity
+-JJsploit
+-solara
+-Delta 
+-bunni.lol
