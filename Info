@@ -1,4 +1,10 @@
-# TestSubject.gg
+TestSubject.gg
+
+**Loadstring:**
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TestSubjectTW/TestSubject.gg/main/loader.lua"))()
+
+
 got bored so i made my own roblox cheat hub
 
 included modules:
